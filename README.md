@@ -1,0 +1,1 @@
+simple script to import text email to a local directory using imap protocol
